@@ -1,0 +1,12 @@
+USES: actions/checkout | #SUP: 204314
+USES: actions/checkout | USES: actions/setup-java | #SUP: 13096
+USES: actions/checkout | USES: actions/setup-python | #SUP: 28859
+USES: actions/checkout | USES: actions/setup-node | #SUP: 30982
+USES: actions/checkout | USES: actions/upload-artifact | #SUP: 30372
+USES: actions/checkout | USES: actions/cache | #SUP: 28994
+USES: actions/setup-node | #SUP: 32302
+USES: actions/upload-artifact | #SUP: 31861
+USES: actions/setup-python | #SUP: 30220
+USES: actions/setup-go | #SUP: 14952
+USES: actions/cache | #SUP: 30335
+USES: actions/setup-java | #SUP: 13671
